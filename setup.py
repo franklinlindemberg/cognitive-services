@@ -11,7 +11,7 @@ setuptools.setup(
     description="A package that wraps many cognitive services packages",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/franklin.lindemberg/cognitive-services",
+    url="https://github.com/franklinlindemberg/cognitive-services",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
